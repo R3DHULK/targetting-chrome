@@ -2,5 +2,5 @@ json
 base64
 sqlite3
 shutil
-win32crypt
+pypiwin32
 aes
