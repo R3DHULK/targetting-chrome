@@ -2,5 +2,4 @@ json
 base64
 sqlite3
 shutil
-pypiwin32
 aes
